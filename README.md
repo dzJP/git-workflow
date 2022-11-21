@@ -1,7 +1,4 @@
--# git-workflow
-
 <h1/>Git workflow example</h1>
-<h2>Never push to master<h2/>
 
 <h3>Steps<h3/>
 
@@ -21,3 +18,5 @@
 >8. git push with --set -upstream origin filename
 >9. merge/pull request.
 >10. fetch and pull down from master.
+
+<h1>Never push to master<h1/>
