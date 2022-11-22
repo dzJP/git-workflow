@@ -3,7 +3,7 @@
 <h3>Steps<h3/>
 
 >1. Make new folder and clone git repo.
->2. Enter new folder
+>2. Enter new folder.
 >3. Edit and add your files. 
 >4. Commit and push.
 
@@ -13,12 +13,12 @@
 
 <h3>Create a new branch<h3/>
 
->5. Create a new folder with git checkout -b 
->6. Edit and add files your files.
+>5. Go back to origin main/master and create a new folder with git checkout -b. 
+>6. Edit and/or add your files.
 >7. Commit into new folder.
->8. Git push with --set -upstream origin filename
+>8. Git push with --set -upstream origin filename.
 >9. Open a pull request to the project.
->10. Confirm and merge the pull request
+>10. Confirm and merge the pull request.
 >11. Pull down to master to update project locally.
 
 >>You can also use git fetch and then git merge, (check git remote --v).
